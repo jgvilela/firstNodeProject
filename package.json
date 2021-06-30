@@ -1,0 +1,22 @@
+{
+  "name": "proj-1",
+  "version": "1.0.0",
+  "description": "- [Prof. André T. Endo](https://github.com/andreendo)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgvilela/firstNodeProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgvilela/firstNodeProject/issues"
+  },
+  "homepage": "https://github.com/jgvilela/firstNodeProject#readme",
+  "devDependencies": {
+    "jest": "^27.0.5"
+  }
+}
